@@ -1,9 +1,43 @@
-- 👋 Hi, I’m @kiran28092003
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning IT Engineering 
-- 💞️ I’m looking to collaborate on App Development Using Java
-- 📫 How to reach me: My Linkedin ID: https://www.linkedin.com/in/kiran-tajanpure-a7509225b/?lipi=urn%3Ali%3Apage%3Apremium_products%3B89b4bb91-63b2-477a-89c6-dacc8a902a9 
-<!---
-kiran28092003/kiran28092003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# IoT Home Automation Project
+
+This project demonstrates a home automation system using Internet of Things (IoT) technology. The system controls home appliances like lights, fans, and TVs via sensors and voice commands. It also integrates messaging functionality using Twilio for sending alerts to users. The project utilizes Raspberry Pi, various sensors, and a GUI interface to automate and monitor home conditions efficiently.
+
+## Features
+- **Home Appliance Control**: Controls lights, fans, and TVs via voice commands.
+- **Raindrop Sensor**: Detects rain and sends an alert to the user.
+- **Ultraviolet Sensor**: Measures distance and detects user presence.
+- **Temperature & Humidity Sensor**: Monitors environmental conditions and adjusts settings accordingly.
+- **Gas Sensor**: Detects gas leaks and sends alerts for safety.
+- **LED Lights**: Blink in response to voice commands like "turn on the lights" or "turn off the lights."
+- **Buzzer**: Sends audible alerts when certain conditions are met, such as gas leaks.
+- **Twilio Integration**: Sends real-time SMS alerts to users for rain detection, gas leaks, or other system events.
+- **GUI Interface**: A user-friendly interface for monitoring and controlling the system.
+
+## Technologies Used
+- **Raspberry Pi**: Central controller for the IoT system.
+- **Raindrop Sensor**: Detects rain and triggers alerts.
+- **Ultraviolet Sensor**: Measures distance and checks user presence.
+- **Temperature & Humidity Sensor**: Monitors environmental conditions.
+- **Gas Sensor**: Detects gas leaks for safety.
+- **LED Lights**: Visual feedback for system control.
+- **Buzzer**: For audio alerts.
+- **Twilio API**: Used to send SMS notifications to users.
+- **Python**: Programming language used to interact with sensors and the Twilio API.
+- **GUI Development**: Provides a simple interface for user interaction.
+
+## Team & Project Images
+
+### Team Members
+
+![Team Image](images/team_image.jpg)
+
+### Project Overview
+
+![Project Image](images/project_image.jpg)
+
+## Getting Started
+To get started with this project, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kiran28092003/IoT-Home-Automation.git
