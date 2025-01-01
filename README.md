@@ -112,3 +112,33 @@ For inquiries, feel free to reach out to us:
 - **Email**: kirantajanpure48@gmail.com  
 - **GitHub**: [https://github.com/kiran28092003](https://github.com/kiran28092003)  
 - **LinkedIn**: [https://www.linkedin.com/in/kiran-tajanpure-a7509225b](https://www.linkedin.com/in/kiran-tajanpure-a7509225b)  
+
+---
+
+## Future Scope
+
+1. **Gesture Expansion**  
+   Introduce a wider range of gestures for advanced mouse operations, such as drag-and-drop, zooming, and scrolling.
+
+2. **Voice Integration**  
+   Combine gesture recognition with voice commands for a hybrid hands-free interface.
+
+3. **Cross-Platform Compatibility**  
+   Extend support to various operating systems like macOS, Linux, and mobile platforms.
+
+4. **Improved Accuracy**  
+   Enhance gesture recognition algorithms to work effectively in diverse lighting conditions and backgrounds.
+
+5. **AR/VR Integration**  
+   Use the AI Virtual Mouse in augmented reality (AR) and virtual reality (VR) environments for immersive user experiences.
+
+6. **Accessibility Enhancements**  
+   Adapt the system further for individuals with disabilities, making it more inclusive and accessible.
+
+7. **Customizable UI**  
+   Provide users with the ability to configure gestures and corresponding actions according to their preferences.
+
+8. **Disaster Management Integration**  
+   Utilize AI Virtual Mouse technology in disaster response scenarios, enabling hands-free control of systems for monitoring, communication, and rescue operations in hazardous environments.
+
+---
