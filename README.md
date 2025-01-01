@@ -84,7 +84,7 @@ pip install pyautogui
 ## Example of Implementation
 Below is an example image of how the AI Virtual Mouse works in real time:
 
-![AI Virtual Mouse Demo](path_or_url_to_image)
+![AI Virtual Mouse Demo](Screenshot (93).png)
 
 ---
 ## Applications
