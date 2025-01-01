@@ -49,14 +49,6 @@ Implements the system using programming languages like Python, alongside librari
 
 ---
 
-## Are We Able to Alter This Code?
-Yes, the code is modular and easy to modify. Developers can:
-1. **Add New Gestures**: Expand the system by defining new gestures for specific actions.  
-2. **Integrate Additional Features**: Include functionalities like voice commands or keyboard emulation.  
-3. **Improve Performance**: Enhance detection speed by optimizing model parameters.  
-4. **Adapt for Different Environments**: Adjust the code for gaming, healthcare, or other specific use cases.
-
----
 
 ## Security Features
 To ensure only authorized users can access the AI Virtual Mouse, several security features are included:  
@@ -72,18 +64,40 @@ To ensure only authorized users can access the AI Virtual Mouse, several securit
 3. **MediaPipe**: Tracks hand movements in real-time, recognizing landmarks and gestures.  
 4. **PyAutoGUI**: Controls the mouse and keyboard, enabling hand gestures to perform actions like moving and clicking.
 5. **pyttsx3**: library converts text to speech, allowing you to set properties like voice, rate, and volume, and speak or save text as audio. 
-##use
+---
+
+## Example of Implementation
+Below is an example image of how the AI Virtual Mouse works in real time:
+
+**steps to Execute-**
+- step 1)
+## install all libraries:
 ```
 pip install pyttsx3
 pip install opencv-python
 pip install mediapipe
 pip install pyautogui
 ```
----
+make sure your version of python is satisfies the libraries requirement ...we are using python 3.12
+```
+python --version
+```
+- step 2)
+- 
+![Screenshot (97)](https://github.com/user-attachments/assets/6f64a456-cccd-4be9-80da-73ca50f1ae6d)
 
-## Example of Implementation
-Below is an example image of how the AI Virtual Mouse works in real time:
-![Screenshot (93)](https://github.com/user-attachments/assets/e343a5c8-cf3c-4f51-8c27-1175261f2b18)
+- step 3)
+- 
+![Screenshot (93)](https://github.com/user-attachments/assets/23e7f71a-1d8c-431e-83b4-07ad8e20039f)
+- step 4)
+- 
+![Screenshot 2025-01-01 122819](https://github.com/user-attachments/assets/285dd0cb-b049-4667-8474-7e688b33bd87)
+- step 4)
+- 
+![Screenshot (94)](https://github.com/user-attachments/assets/f034a790-a512-4abf-9112-6f4ba0be4a94)
+![Screenshot (95)](https://github.com/user-attachments/assets/dd968ad7-548d-426b-9901-43ae99bafb80)
+![Screenshot (99)](https://github.com/user-attachments/assets/de8d35e5-f4b6-4725-baba-60ccf02eaf90)
+
 This is the additional Feature GUI we added to it
 ---
 ## Applications
