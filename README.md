@@ -45,5 +45,5 @@ To get started with this project, follow these steps:
    git clone https://github.com/kiran28092003/IoT-Home-Automation.git
    ```
 ## Contributions
- **Aditya Patil**
+ **- Aditya Patil**
 - **Contact:** https://github.com/Aditya948351
