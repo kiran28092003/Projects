@@ -51,4 +51,5 @@ This repository is structured to include the following types of projects:
 - **LinkedIn**: [Kiran Tajanpure](https://www.linkedin.com/in/kiran-tajanpure-a7509225b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BycyvZiqsQlaz3qhzSRoE3w%3D%3D)
 - **GitHub**: [kiran28092003](https://github.com/kiran28092003)
 - **Email**: kirantajanpure48@gmail.com
+- **Leetcode**: [kirantajanpure](https://leetcode.com/u/Kirantajanpure)
 ---
