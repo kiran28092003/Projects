@@ -46,4 +46,4 @@ To get started with this project, follow these steps:
    ```
 ## Contributions
  - **Aditya Patil**
-  **Contact:** https://github.com/Aditya948351
+ - Contact:  https://github.com/Aditya948351
