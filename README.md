@@ -29,11 +29,13 @@ This project demonstrates a home automation system using Internet of Things (IoT
 
 ### Team Members
 
-[![Team Image](images/team_image.jpg)](https://github.com/kiran28092003/Projects/blob/IoT_Project_Home_Automation/Team_Price.jpg)
+![IoT_TeamPrice](https://github.com/user-attachments/assets/b0965741-7d9f-4d59-a51d-78ac3020b5b8)
+
 
 ### Project Overview
 
-[![Project Image](images/project_image.jpg)](https://github.com/kiran28092003/Projects/blob/IoT_Project_Home_Automation/project.jpg)
+![IoT_Project_Model](https://github.com/user-attachments/assets/40cb1466-fbd0-4d20-8e45-39f4a24c7b9d)
+
 
 ## Getting Started
 To get started with this project, follow these steps:
@@ -41,3 +43,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/kiran28092003/IoT-Home-Automation.git
+   ```
+## Contributions
+ **Aditya Patil**
+- **Contact:**
