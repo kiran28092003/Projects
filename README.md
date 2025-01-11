@@ -1,55 +1,65 @@
-# Projects
+# To-Do List Application with Java Swing.
 
-Welcome to my **Projects** repository! 👩‍💻 Here, you'll find all the projects I've worked on throughout my academic journey and beyond. Each project showcases my skills, learning, and dedication to continuous improvement.
-
----
-
-## 📂 Repository Overview
-
-This repository is structured to include the following types of projects:
-
-1. **Academic Projects**: Work completed as part of my coursework.
-2. **Hackathon Projects**: Contributions to hackathons and competitions.
-3. **Personal Projects**: Independent projects undertaken to explore new technologies.
-4. **Collaborative Projects**: Team-based projects emphasizing teamwork and innovation.
+## Overview
+This project is a **To-Do List Application** implemented using **Java Swing** for the GUI and **MySQL** for the database backend. The application allows users to manage their tasks by adding, deleting, updating, and viewing them. It showcases the integration of a GUI-based application with a relational database.
 
 ---
 
-## 🏆 Highlighted Projects
+## Features
+1. **Add Task**: Allows users to add a new task with the following attributes:
+   - Title
+   - Description
+   - Status (e.g., pending/completed)
+   - Due Date
 
-### 1. **Smart Home Automation**
-- **Description**: A system that automates home appliances using sensors and Raspberry Pi.
-- **Features**: 
-  - Raindrop sensor for rain detection.
-  - Ultraviolet sensor for presence detection.
-  - Voice commands for turning lights on/off.
-  - GUI for user interaction.
-- **Technologies**: Raspberry Pi, Python, Sensors.
+2. **Delete Task**: Enables users to delete an existing task by providing its unique Task ID.
 
+3. **Update Task Status**: Allows users to update the status of a specific task (e.g., from pending to completed).
 
-### 2. **AI Virtual Mouse**
-- **Description**: A system that uses computer vision to control the mouse pointer through hand gestures.
-- **Features**:
-  - Hand tracking for cursor movement.
-  - Gestures for left and right clicks.
-  - Real-time responsiveness with OpenCV.
-- **Technologies**: Python, OpenCV, MediaPipe.
+4. **View All Tasks**: Displays a table containing all tasks stored in the database with attributes such as ID, Title, Description, Status, Due Date, and Created At.
 
----
-### ....the journey starts here....stepping ahead to enhancing..
-
-## 📈 Future Enhancements
-
-- Adding more interactive demos for each project.
-- Expanding the repository with detailed documentation for each project.
-- Integrating GitHub Pages for showcasing key projects.
+5. **Database Integration**: All operations are performed on a MySQL database, ensuring data persistence.
 
 ---
 
-## 🔗 Connect with Me
+## Technologies Used
+- **Programming Language**: Java
+- **GUI Framework**: Java Swing
+- **Database**: MySQL
+- **IDE**: IntelliJ IDEA / Eclipse / Any Java IDE
 
-- **LinkedIn**: [Kiran Tajanpure](https://www.linkedin.com/in/kiran-tajanpure-a7509225b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BycyvZiqsQlaz3qhzSRoE3w%3D%3D)
-- **GitHub**: [kiran28092003](https://github.com/kiran28092003)
-- **Email**: kirantajanpure48@gmail.com
-- **Leetcode**: [kirantajanpure](https://leetcode.com/u/Kirantajanpure)
 ---
+
+## Database Setup
+1. Install MySQL on your system.
+2. Create a database named `todo_list`.
+3. Create a table named `tasks` with the following structure:
+   ```sql
+   CREATE TABLE tasks (
+       id INT AUTO_INCREMENT PRIMARY KEY,
+       title VARCHAR(255) NOT NULL,
+       description TEXT,
+       status ENUM('pending', 'completed') NOT NULL,
+       due_date DATE,
+       created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+   );
+## Steps to Display..
+**step 1)**
+![Screenshot (106)](https://github.com/user-attachments/assets/a93abec9-da2c-4b2c-bcbd-165df203ecdd)
+
+**step 2)**
+![Screenshot (107)](https://github.com/user-attachments/assets/43693aa5-3a28-4b13-b2d2-76d7e685c6de)
+
+**step 3)**
+![Screenshot (108)](https://github.com/user-attachments/assets/887eb12d-de29-458a-a606-94fcd8d8d35b)
+![Screenshot (109)](https://github.com/user-attachments/assets/fe726634-75a9-452e-aa4a-5ec6cd8e4800)
+**step 4)**
+![Screenshot (110)](https://github.com/user-attachments/assets/3ace624e-7943-4461-a977-cfa626636ccf)
+![Screenshot (111)](https://github.com/user-attachments/assets/b1a2a3ed-0e7a-44de-b779-35149dbe0e04)
+![Screenshot (112)](https://github.com/user-attachments/assets/7d7c3d09-4062-4241-ba17-ce9f2047eb4d)
+**step 5)**
+![Screenshot (113)](https://github.com/user-attachments/assets/3b6a3dfa-ffe0-4d8d-a708-8c3da7302c7c)
+![Screenshot (114)](https://github.com/user-attachments/assets/f5d01ea5-2314-4ee8-92d1-039dcd596c47)
+
+
+
