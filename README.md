@@ -1,5 +1,4 @@
 # To-Do List Application with Java Swing.
----
 ## Overview
 This project is a **To-Do List Application** implemented using **Java Swing** for the GUI and **MySQL** for the database backend. The application allows users to manage their tasks by adding, deleting, updating, and viewing them. It showcases the integration of a GUI-based application with a relational database.
 
