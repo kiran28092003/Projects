@@ -1,6 +1,6 @@
 # Projects
 
-Welcome to my **Projects** repository! 👩‍💻 Here, you'll find all the projects I've worked on throughout my academic journey and beyond. Each project showcases my skills, learning, and dedication to continuous improvement.
+Welcome to my **Projects** repository! 👩‍💻 Here, you'll find all the projects I've worked on throughout my academic journey and beyond. Each project showcases my skills, learning, and dedication to continuous improvement
 
 ---
 
