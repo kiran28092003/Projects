@@ -1,10 +1,7 @@
 # AI Virtual Mouse
 
 ## This Project is Done By:
-- **Shinde Vrushali**  
-- **Tajanpure Kiran**  
-- **Bhagat Ashwini**  
-- **Tarde Pooja**
+- **Tajanpure Kiran Ambadas**
 
 ---
 
